@@ -11,5 +11,7 @@ go to project --> setting --> manage acccess --> Invite a collaborator
 التعديلات في خواص الجيت
 ------------------------
 #### git config -l  [ Show the github list ]
-
 #### git help config [ open manuel confhgration git]
+
+#### git config --global --edit [ to edit your github from your text editor ]
+
